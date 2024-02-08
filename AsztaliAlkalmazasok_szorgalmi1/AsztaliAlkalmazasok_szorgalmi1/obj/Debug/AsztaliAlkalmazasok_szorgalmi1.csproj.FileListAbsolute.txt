@@ -1,0 +1,10 @@
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\bin\Debug\Számolós játék.exe.config
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\bin\Debug\Számolós játék.exe
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\bin\Debug\Számolós játék.pdb
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\AsztaliAlkalmazasok_szorgalmi1.csproj.AssemblyReference.cache
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\AsztaliAlkalmazasok_szorgalmi1.Form1.resources
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\AsztaliAlkalmazasok_szorgalmi1.Properties.Resources.resources
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\AsztaliAlkalmazasok_szorgalmi1.csproj.GenerateResource.cache
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\AsztaliAlkalmazasok_szorgalmi1.csproj.CoreCompileInputs.cache
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\Számolós játék.exe
+C:\Users\KomPhone\Desktop\AsztaliAlkalmazasok_szorgalmi1\AsztaliAlkalmazasok_szorgalmi1\obj\Debug\Számolós játék.pdb
